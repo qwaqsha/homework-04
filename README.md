@@ -5,5 +5,5 @@
 
 ---
 ### Запуск в консоли:
-npm install
+npm install  
 tsc; node app
